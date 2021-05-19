@@ -1,0 +1,37 @@
+End-user License Agreement
+
+Fungi Booklet Mobile Application (the “Application”) is licensed to you, not sold. The Application is provided under the following license and is subject to the following terms and conditions.
+
+IMPORTANT: CAREFULLY READ THIS LICENSE BEFORE USING THE APPLICATION. BY CLICKING THE "I AGREE" BUTTON BELOW INDICATES YOUR ACKNOWLEDGMENT THAT YOU HAVE READ THIS LICENSE AND AGREE TO ITS TERMS. IF YOU DO NOT AGREE, YOU MUST NOT USE THE APPLICATION.
+
+License Terms and Conditions
+This Application publisher grants you a limited, non-exclusive license to use the Application in accordance with the terms of this Agreement. You agree not to reproduce, copy, modify, decompile, disassemble, reverse engineer or create derivative works of any portion of the Application, and you may not transfer or distribute it in any form, for any purpose. Application publisher reserves the right to modify the Application, or to discontinue offering the Application all together at any time and for any reason, including without limitation, if any third party supplier ceases to supply content or services, or if Application publisher’s contract with such supplier terminates. In the event Application publisher shall discontinue offering the Application, this Agreement and your rights under it shall terminate immediately. The Disclaimers of Warranty and Liability contained in this Agreement shall survive such termination.
+
+Restrictions
+You are prohibited from selling, renting or leasing the Application to any other person or third party. You acknowledge that the Application should be used only for general information purposes and you should not rely on the Application for any life or death situation.
+
+Disclaimer
+The Application provides relative information for your reference only. Application is not responsible for any information accuracy, including but not limited to any edibility suggestions.
+
+No Warranty
+The Application is provided to you “as is,” and you agree to use it at your own risk. The Application publisher makes no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, edibility, content, copyright of content, quality, accuracy, completeness, effectiveness, reliability, merchantability, usefulness, use or results to be obtained from the Application, or that the Application will be uninterrupted or error-free.
+
+Disclaimer of Warranty
+The APPLICATION PUBLISHER DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, OF EDIBILITY, ACCURACY, QUALITY, PERFORMANCE or MERCHANTABILITY. NO ORAL OR WRITTEN ADVICE OR INFORMATION PROVIDED BY THE APPLICATION PUBLISHER SHALL CREATE A WARRANTY, AND YOU ARE NOT ENTITLED TO RELY ON ANY SUCH ADVICE OR INFORMATION. THIS DISCLAIMER OF WARRANTIES IS AN ESSENTIAL CONDITION OF THIS AGREEMENT. Some States, Territories and Countries do not allow certain warranty exclusions, so to that extent the above exclusion may not apply to you.
+
+Disclaimer of Liability
+The APPLICATION PUBLISHER SHALL NOT BE LIABLE TO YOU: IN RESPECT OF ANY COST, CLAIM, DEMAND OR ACTION, IRRESPECTIVE OF THE NATURE OF THE CAUSE OF THE CLAIM, DEMAND OR ACTION ALLEGING ANY LOSS, INJURY OR DAMAGES, DIRECT OR INDIRECT, WHICH MAY RESULT FROM THE USE OR POSSESSION OF THE APPLICATION; OR FOR ANY LOSS OF PROFIT, REVENUE, CONTRACTS OR SAVINGS, OR ANY OTHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR USE OF OR INABILITY TO USE THE APPLICATION, ANY DEFECT IN THE APPLICATION, OR THE BREACH OF THESE TERMS OR CONDITIONS, WHETHER IN AN ACTION IN CONTRACT OR TORT OR BASED ON A WARRANTY, EVEN IF THE APPLICATION PUBLISHER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE APPLICATION PUBLISHER’S TOTAL AGGREGATE LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS AGREEMENT OR OTHERWISE WITH RESPECT TO THE APPLICATION SHALL NOT EXCEED $1.00. Some States, Territories and Countries do not allow certain liability exclusions or damages limitations, so to that extent the above may not apply to you.
+
+Export Control
+You agree not to export from anywhere any part of the Application provided to you or any direct product thereof except in compliance with, and with all licenses and approvals required under, applicable export laws, rules and regulations.
+
+Indemnity
+You agree to indemnify, defend and hold the Application publisher free and harmless from and against any liability, loss, injury (including injuries resulting in death), demand, action, cost, expense, or claim of any kind or character, including but not limited to attorney’s fees, arising out of or in connection with any use, reference or possession by you of the Application or its contents.
+
+Copyright Policy
+The Application publisher respects the intellectual property rights of others. It is the Application publisher's policy, at its discretion and when appropriate, to terminate the accounts of users who may infringe or repeatedly infringe the copyrights of third parties.
+
+Copyrights of The Images
+Some of the images used by The Application were sourced from the following non-profit public web site (https://fungimap.biodiv.tw/tree/fungi) and the images are all declared by the web site with CC BY-NC 3.0(https://creativecommons.org/licenses/by-nc/3.0/). The Application publisher does not guarantee any correctness or validity of the images sourced from the above mentioned web site.
+
+Author of Fungi Booklet
